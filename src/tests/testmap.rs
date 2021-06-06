@@ -3,7 +3,7 @@ extern crate color_convert;
 #[cfg(test)]
 mod tests {
 
-
+    use color_convert::handles::map;
 
     #[test]
     fn test_map_name(){
