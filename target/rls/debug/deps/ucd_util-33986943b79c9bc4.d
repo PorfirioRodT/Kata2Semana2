@@ -1,0 +1,11 @@
+c:\Users\el-co\Tendencia\Kata2Semana2\hextorgb2\target\rls\debug\deps\ucd_util-33986943b79c9bc4.rmeta: C:\Users\el-co\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.8\src\lib.rs C:\Users\el-co\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.8\src\hangul.rs C:\Users\el-co\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.8\src\ideograph.rs C:\Users\el-co\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.8\src\name.rs C:\Users\el-co\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.8\src\property.rs C:\Users\el-co\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.8\src\unicode_tables\mod.rs C:\Users\el-co\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.8\src\unicode_tables\jamo_short_name.rs
+
+c:\Users\el-co\Tendencia\Kata2Semana2\hextorgb2\target\rls\debug\deps\ucd_util-33986943b79c9bc4.d: C:\Users\el-co\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.8\src\lib.rs C:\Users\el-co\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.8\src\hangul.rs C:\Users\el-co\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.8\src\ideograph.rs C:\Users\el-co\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.8\src\name.rs C:\Users\el-co\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.8\src\property.rs C:\Users\el-co\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.8\src\unicode_tables\mod.rs C:\Users\el-co\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.8\src\unicode_tables\jamo_short_name.rs
+
+C:\Users\el-co\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.8\src\lib.rs:
+C:\Users\el-co\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.8\src\hangul.rs:
+C:\Users\el-co\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.8\src\ideograph.rs:
+C:\Users\el-co\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.8\src\name.rs:
+C:\Users\el-co\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.8\src\property.rs:
+C:\Users\el-co\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.8\src\unicode_tables\mod.rs:
+C:\Users\el-co\.cargo\registry\src\github.com-1ecc6299db9ec823\ucd-util-0.1.8\src\unicode_tables\jamo_short_name.rs:
