@@ -4,6 +4,9 @@ extern crate color_convert;
 mod tests {
 
     use color_convert::handles::map;
+    use color_convert::color::Color;
+    use color_convert::handles::hex;
+    use common::init_color;
 
     #[test]
     fn test_map_name(){
