@@ -2,7 +2,7 @@ fn main() {
     println!("Hello, world!");
 }
 
-/*extern crate color_convert;
+extern crate color_convert;
 
 #[cfg(test)]
 mod tests {
@@ -22,8 +22,8 @@ mod tests {
     fn test_map_name_upper(){
 
         let color = "white";
-        let toColor = map::map_color_upper(&color);
-        assert_eq!(toColor, "#WHITE")
+        let to_color = map::map_name_to_name(&color);
+        assert_eq!(to_color, "White")
 
     }
 
@@ -31,10 +31,10 @@ mod tests {
     fn test_map_name_hex(){
 
         let color = "B";
-        let toColor = map::map_color_hex(&color);
+        let toColor = map::map_hex(&color);
         assert_eq!(toColor, 11)
 
     }
 
 
-}*/
+}
